@@ -1,7 +1,7 @@
 # FB-GLG-project
 This is FourthBrain's MLE 6 Capstone project
 
-Business problem is 
+Business problem:
 To match each client’s request to the right topic specialist in GLG’s database
 
 Input dataset: 
